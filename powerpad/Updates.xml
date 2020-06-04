@@ -1,0 +1,23 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.tekit.powerpad</Name>
+  <DisplayName>PowerPAD</DisplayName>
+  <Description>&lt;p style="font-size:xx-large; color:#7f91ad; margin-top:0px; margin-bottom:0px">Initial Release 0.1.0&lt;/p> &lt;p>&lt;span style="font-size:large; color:white; background-color:#73AD21; padding:5px; border-radius:5px">MAIN FEATURES&lt;/span>&lt;/p> &lt;ul style="margin-top:0px; margin-left:-10px"> &lt;li style="margin-top:3px">Manage up to 4 xinput compatible controllers&lt;/li> &lt;li style="margin-top:3px">Simulate mouse move, mouse wheel and key press&lt;/li> &lt;li style="margin-top:3px">Auto disable on full screen enter and enable back on leave&lt;/li> &lt;li style="margin-top:3px">On screen virtual keyboard&lt;/li> &lt;li style="margin-top:3px">Mouse speed and acceleration configuration&lt;/li> &lt;li style="margin-top:3px">Auto start application on Windows startup&lt;/li> &lt;li style="margin-top:3px">Online autoupdate application&lt;/li> &lt;li style="margin-top:3px">Integrate to Windows systray and display notifications&lt;/li> &lt;li style="margin-top:3px">Internationalization languages english and french&lt;/li> &lt;/ul></Description>
+  <Description xml:lang="fr">&lt;p style="font-size:xx-large; color:#7f91ad; margin-top:0px; margin-bottom:0px">Initial Release 0.1.0&lt;/p> &lt;p>&lt;span style="font-size:large; color:white; background-color:#73AD21; padding:5px; border-radius:5px">MAIN FEATURES&lt;/span>&lt;/p> &lt;ul style="margin-top:0px; margin-left:-10px"> &lt;li style="margin-top:3px">Manage up to 4 xinput compatible controllers&lt;/li> &lt;li style="margin-top:3px">Simulate mouse move, mouse wheel and key press&lt;/li> &lt;li style="margin-top:3px">Auto disable on full screen enter and enable back on leave&lt;/li> &lt;li style="margin-top:3px">On screen virtual keyboard&lt;/li> &lt;li style="margin-top:3px">Mouse speed and acceleration configuration&lt;/li> &lt;li style="margin-top:3px">Auto start application on Windows startup&lt;/li> &lt;li style="margin-top:3px">Online autoupdate application&lt;/li> &lt;li style="margin-top:3px">Integrate to Windows systray and display notifications&lt;/li> &lt;li style="margin-top:3px">Internationalization languages english and french&lt;/li> &lt;/ul></Description>
+  <Version>0.1.0</Version>
+  <ReleaseDate>2020-06-19</ReleaseDate>
+  <ForcedInstallation>true</ForcedInstallation>
+  <Script>installscript.qs</Script>
+  <UpdateFile CompressedSize="10379221" UncompressedSize="34389544" OS="Any"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <UserInterfaces>runprogram.ui</UserInterfaces>
+  <Translations>fr.qm</Translations>
+  <Licenses>
+   <License file="gplv3.txt" name="GNU general public license"/>
+  </Licenses>
+  <SHA1>31b850243c90400e21790010acc8c6ba261d5b31</SHA1>
+ </PackageUpdate>
+</Updates>
